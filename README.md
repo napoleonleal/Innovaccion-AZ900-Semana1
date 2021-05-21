@@ -33,6 +33,7 @@ Las aplicaciones en la nube se pueden escalar verticalmente y horizontalmente:
 
 - Escale verticalmente para aumentar la capacidad de proceso mediante la incorporación de RAM o CPU adicionales a una máquina virtual.
 - El escalado horizontal aumenta la capacidad de proceso mediante la adición de instancias de recursos, como la incorporación de máquinas virtuales a la configuración.
+
 ![Escalabilidad](https://blogs.mulesoft.com/wp-content/uploads/img_6059ca858cddc.png)
 
 
