@@ -36,5 +36,11 @@ Las aplicaciones en la nube se pueden escalar verticalmente y horizontalmente:
 
 ![Escalabilidad](https://blogs.mulesoft.com/wp-content/uploads/img_6059ca858cddc.png)
 
+## Elasticidad
+
+Permite configurar aplicaciones basadas en la nube para aprovechar el escalado automático, de forma que las aplicaciones siempre dispondrán de los recursos que necesitan.
+
+Permite que se exceda o "alargue" las capacidades de los servicios contratados si es que se llega a sobre pasar por un pococ para evitar el mal funcionamiento.
+![elasticidad](![image](https://user-images.githubusercontent.com/72761426/119198600-d5a88400-ba46-11eb-9a65-e46615e41f86.png)
 
 
