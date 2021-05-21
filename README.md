@@ -78,3 +78,5 @@ Los recursos se combinan en grupos de recursos, que actúan como contenedor lóg
 
 Los recursos son instancias de servicios que puede crear, como máquinas virtuales, almacenamiento o bases de datos SQL.
 ![recursos](https://www.hiberus.com/crecemos-contigo/wp-content/uploads/2019/07/1-1.png)
+
+Reto realizado por: Leal Higuera Sergio Napoleón 
