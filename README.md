@@ -61,7 +61,7 @@ Los gastos de capital (CapEx) hacen referencia a la inversión previa de dinero 
 ## OpEx
 
 Los gastos operativos (OpEx) son dinero que se invierte en servicios o productos y se factura al instante. Este gasto se puede deducir el mismo año que se produce. No hay ningún costo previo, ya que se paga por un servicio o producto a medida que se usa.
-![]opex(https://i.pinimg.com/originals/95/98/4f/95984f99351ced5be80999238960b974.png)
+![opex](https://i.pinimg.com/originals/95/98/4f/95984f99351ced5be80999238960b974.png)
 
 ## Suscripciones en Azure
 
